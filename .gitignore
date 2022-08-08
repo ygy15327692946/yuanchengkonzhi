@@ -33,3 +33,6 @@
 /RemoteControl/.vs
 /RemoteControl/RemoteClient/RemoteClient.vcxproj.user
 /RemoteControl/RemoteControl/RemoteControl.vcxproj.user
+/RemoteControl/Debug
+/RemoteControl/RemoteControl/Debug
+/RemoteControl/RemoteClient/Debug
